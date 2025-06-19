@@ -1,5 +1,5 @@
 # CGPA Calculator
-**Author:** SUMIT KUMAR SHARMA
+**Author:** AKASH KUMAR CHOUDHARY
 
 ## Description
 A simple CGPA calculator built in C++ that allows users to input course grades and credit hours, then computes the overall CGPA.
